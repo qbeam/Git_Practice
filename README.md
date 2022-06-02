@@ -31,5 +31,3 @@ yarn dev
 
 ## 👩‍💻 Created by  ###
 * 62070503419 Natsarun Rooncharoen  (Beam)
-* 62070503420 Nacha Hirunyakarn 	  (Pungjung)
-* 62070503451 Supavadee Phusanam	  (Ying)
